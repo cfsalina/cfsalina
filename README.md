@@ -8,7 +8,7 @@ Co-Founder and Developer in Chile. I am interested in growing professionally as 
 
 ### 🎯 Interests:
 
-**Tech specialties and interests**: *Back-end Developer, Spring Boot, Java, CI/CD, Patterns of Enterprise Application Architecture, Enterprise Integration Patterns, Microservices, AWS, Terraform, Infrastructure as Code and Pair Programming, among others*.
+**Tech specialties and interests**: *Back-end Developer, Spring Boot, Java, CI/CD, Patterns of Enterprise Application Architecture, Enterprise Integration Patterns, Microservices, AWS, Terraform, Infrastructure as Code, and Pair Programming, among others*.
 
 **Other interests**: *Business intelligence, Data Analysis, Mining industry, Airline industry, Revenue Management, SMEs in Chile, Tax Planning, Business Development, Leadership Development, Team Building, Emotional Intelligence, and Talent Development*.
 
