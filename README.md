@@ -6,15 +6,15 @@ Co-Founder and Developer in Chile. I am interested in growing professionally as 
 
 ---
 
-❤️ Interests:
+### 🎯 Interests:
 
-**Tech specialties and interests**: *Back-end Developer, Spring Boot, Java, CI/CD, Patterns of Enterprise Application Architecture, Enterprise Integration Patterns, Microservices, AWS, Terraform, Infrastructure as Code, Pair Programming*.
+**Tech specialties and interests**: *Back-end Developer, Spring Boot, Java, CI/CD, Patterns of Enterprise Application Architecture, Enterprise Integration Patterns, Microservices, AWS, Terraform, Infrastructure as Code, Pair Programming, among others*.
 
 **Other interests**: *Business intelligence, Data Analysis, Mining industry, Airline industry, Revenue Management, SMEs in Chile, Tax Planning, Business Development, Leadership Development, Team Building, Emotional Intelligence, and Talent Development*.
 
 ---
 
-😎 On my road to learning, I have found fascinating these sources of knowledge:
+✔️ In my learning process, I have found fascinating these sources of knowledge:
 
 ### Books
 - The Pragmatic Programmer
@@ -32,4 +32,12 @@ Co-Founder and Developer in Chile. I am interested in growing professionally as 
 
 ### Channels
 - https://www.youtube.com/gotoconferences
-  - A channel with great conferences created for developers and by developers. A broad range of topics with videos released daily.
+  - A youtube channel with great conferences created for developers and by developers. A broad range of topics with videos released daily.
+
+---
+
+### 📧 Contact
+
+- Please feel free to contact me with any questions or suggestions. 
+- I'm Open to Work. 
+- All the contact details are on my [LinkedIn](https://www.linkedin.com/in/carlossalinas/).
