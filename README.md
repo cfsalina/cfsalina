@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Carlos.
 
-Back-end Developer, La Serena, CL.
+Software Developer, La Serena, CL.
 
 (By the time, working only on private repositories)
 
